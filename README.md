@@ -13,7 +13,7 @@ Note that not every game supports ray tracing, e.g. there is no ray tracing in M
 <!-- TODO: add links to recommended 'custom designs' and adjust prices -->
 
 Full HD (1920 x 1080): [Radeon RX 9060 XT 16 GB](https://pcpartpicker.com/product/w2WmP6/sapphire-pulse-radeon-rx-9060-xt-16-gb-video-card-11350-03-20g): ca 450$<br>
-Full HD (1920 x 1080): [Radeon RX 9070](https://pcpartpicker.com/product/KXkqqs/asrock-challenger-radeon-rx-9070-16-gb-video-card-rx9070-cl-16g):  ca 620$<br>
+WQHDHD (2560 x 1440): [Radeon RX 9070](https://pcpartpicker.com/product/KXkqqs/asrock-challenger-radeon-rx-9070-16-gb-video-card-rx9070-cl-16g):  ca 620$<br>
 Ultra HD (3840 × 2160): [Radeon RX 9070 XT](https://pcpartpicker.com/product/Bvjv6h/sapphire-pulse-radeon-rx-9070-xt-16-gb-video-card-11348-03-20g): ca 770$
 
 ### with ray tracing
