@@ -8,7 +8,7 @@ Note that not every game supports ray tracing, e.g. there is no ray tracing in M
 
 ### without ray tracing
 
-+ TODO: add links to recommended 'custom designs' and adjust prices +
+<!-- TODO: add links to recommended 'custom designs' and adjust prices -->
 
 Full HD (1920 x 1080): [Radeon RX 9060 XT 16 GB](https://pcpartpicker.com/product/w2WmP6/sapphire-pulse-radeon-rx-9060-xt-16-gb-video-card-11350-03-20g): ca 450$<br>
 Full HD (1920 x 1080): [Radeon RX 9070](https://pcpartpicker.com/product/KXkqqs/asrock-challenger-radeon-rx-9070-16-gb-video-card-rx9070-cl-16g):  ca 620$<br>
