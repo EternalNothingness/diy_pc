@@ -53,7 +53,7 @@ with DRAM: [Western Digital BLACK SN850X, M.2](https://pcpartpicker.com/product/
 
 ## CPU Cooler
 
-[ARCTIC Freezer 36 CPU Cooler](ARCTIC Freezer 36 CPU Cooler(https://pcpartpicker.com/product/N6bRsY/arctic-freezer-36-cpu-cooler-acfre00123a): ca 30$
+[ARCTIC Freezer 36 CPU Cooler](https://pcpartpicker.com/product/N6bRsY/arctic-freezer-36-cpu-cooler-acfre00123a): ca 30$
 
 ## Case
 
