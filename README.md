@@ -41,7 +41,7 @@ There are also some alternative motherboards recommended by ComputerBase, that h
 
 ## Memory
 
-[Crucial Pro 32 GB DDR5-6400](https://pcpartpicker.com/product/TQjRsY/crucial-pro-32-gb-2-x-16-gb-ddr5-6400-cl38-memory-cp2k16g64c38u5b): ca 350$
+[Crucial Pro 32 GB DDR5-6400](https://pcpartpicker.com/product/TQjRsY/crucial-pro-32-gb-2-x-16-gb-ddr5-6400-cl38-memory-cp2k16g64c38u5b): ca 350$<br>
 [Crucial Pro Overclocking 32 GB DDR5-6000](https://pcpartpicker.com/product/QF9wrH/crucial-pro-overclocking-32-gb-2-x-16-gb-ddr5-6000-cl36-memory-cp2k16g60c36u5b): ca 400$
 
 ## Storage
