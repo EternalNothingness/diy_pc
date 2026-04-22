@@ -1,4 +1,4 @@
-# PC Buylist
+# PC part list
 
 ## GPU
 
