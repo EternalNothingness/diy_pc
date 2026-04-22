@@ -67,3 +67,10 @@ with DRAM: [Western Digital BLACK SN850X, M.2](https://pcpartpicker.com/product/
 [be quiet! Pure Power 13 M 750 W](https://pcpartpicker.com/product/yWJBD3/be-quiet-pure-power-13-m-750-w-80-gold-certified-fully-modular-atx-power-supply-bp026us): ca 95$
 
 We might be able to take a cheaper power supply depending on the required wattage.
+
+## Operating System
+
+[Fedora Linux (KDE Plasma Desktop)](https://fedoraproject.org/kde/): free like in freedom<br>
+[Windows 11](https://pcpartpicker.com/product/dKkWGX/microsoft-windows-11-home-oem-dvd-64-bit-kw9-00633): ca 120$
+
+KDE Plasma because of its is of use.
