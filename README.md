@@ -1,5 +1,7 @@
 # PC part list
 
+recommendations based on this [guide](https://www.computerbase.de/forum/threads/der-ideale-gaming-pc-spiele-pc-selbst-zusammenstellen.215394/) created by the Computer Base community.
+
 ## GPU
 
 [ray tracing comparison](https://www.youtube.com/watch?v=F4HkXEzzcRw)
@@ -21,6 +23,8 @@ WQHD (2560 × 1440): [Radeon RX 9070 XT](https://pcpartpicker.com/product/Bvjv6h
 Ultra HD (3840 × 2160): [GeForce RTX 5080](https://pcpartpicker.com/product/8dXMnQ/gigabyte-windforce-oc-sff-geforce-rtx-5080-16-gb-video-card-gv-n5080wf3oc-16gd): ca 1390$ (!!!)
 
 Recommendations according to ComputerBase's [GPU rank list](https://www.computerbase.de/artikel/grafikkarten/rangliste.2487/). I personally would probably choose the RADEON RX 9070.
+
+The exact price vary on the 'chosen design', i.e. the actual producer. We will choose the custom design after we have choosen the GPU.
 
 ## CPU
 
