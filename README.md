@@ -37,6 +37,8 @@ Suffices for many (current!) games: [AMD Ryzen 5 9600X](https://pcpartpicker.com
 
 [ASRock B850 Pro-A](https://pcpartpicker.com/product/tccBD3/asrock-b850-pro-a-atx-am5-motherboard-b850-pro-a) (without WiFi): ca 140$
 
+There are also some alternative motherboards recommended by ComputerBase, that have a different number of different slots, but cost approximately the same. The above motherboard is the base recommendation.
+
 ## Memory
 
 [Crucial Pro 32 GB DDR5-6400](https://pcpartpicker.com/product/TQjRsY/crucial-pro-32-gb-2-x-16-gb-ddr5-6400-cl38-memory-cp2k16g64c38u5b): ca 350$
@@ -48,8 +50,6 @@ DRAM: Fancy term for cache; hence stores frequently accessed data, thus possibly
 
 without DRAM: [Lexar NM790](https://pcpartpicker.com/product/B8QKHx/lexar-nm790-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-lnm790x001t-rnnng): ca 250$<br>
 with DRAM: [Western Digital BLACK SN850X, M.2](https://pcpartpicker.com/product/DyhFf7/western-digital-wd_black-sn850x-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds100t2x0e): ca 205$
-
-There are also some alternative motherboards recommended by ComputerBase, that have a different number of different slots, but cost approximately the same. The above motherboard is the base recommendation.
 
 ## CPU Cooler
 
