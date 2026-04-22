@@ -6,7 +6,7 @@ recommendations based on this [guide](https://www.computerbase.de/forum/threads/
 
 [ray tracing comparison](https://www.youtube.com/watch?v=F4HkXEzzcRw)
 
-Note that not every game supports ray tracing, e.g. there is no ray tracing in M&B: Bannerlord
+Note that not every game supports ray tracing, e.g. there is no ray tracing in M&B: Bannerlord.
 
 ### without ray tracing
 
@@ -48,8 +48,8 @@ There are also some alternative motherboards recommended by ComputerBase, that h
 
 DRAM: Fancy term for cache; hence stores frequently accessed data, thus possibly reducing latency.
 
-without DRAM: [Lexar NM790](https://pcpartpicker.com/product/B8QKHx/lexar-nm790-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-lnm790x001t-rnnng): ca 250$<br>
-with DRAM: [Western Digital BLACK SN850X, M.2](https://pcpartpicker.com/product/DyhFf7/western-digital-wd_black-sn850x-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds100t2x0e): ca 205$
+without DRAM: [Lexar NM790](https://pcpartpicker.com/product/B8QKHx/lexar-nm790-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-lnm790x001t-rnnng): ca 205$<br>
+with DRAM: [Western Digital BLACK SN850X, M.2](https://pcpartpicker.com/product/DyhFf7/western-digital-wd_black-sn850x-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds100t2x0e): ca 250$
 
 ## CPU Cooler
 
