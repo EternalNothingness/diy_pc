@@ -73,4 +73,4 @@ We might be able to take a cheaper power supply depending on the required wattag
 [Fedora Linux (KDE Plasma Desktop)](https://fedoraproject.org/kde/): free<br>
 [Windows 11](https://pcpartpicker.com/product/dKkWGX/microsoft-windows-11-home-oem-dvd-64-bit-kw9-00633): ca 120$
 
-KDE Plasma because of its is of use.
+KDE Plasma because of its ease of use.
