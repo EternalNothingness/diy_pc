@@ -33,7 +33,7 @@ Suffices for many (current!) games: [AMD Ryzen 5 9600X](https://pcpartpicker.com
 
 ## Motherboard
 
-[ASRock B860 Pro-A WiFi](ASRock B860 Pro-A WiFi): ca 160$
+[ASRock B860 Pro-A WiFi](https://pcpartpicker.com/product/pqkqqs/asrock-b850-pro-a-wifi-atx-am5-motherboard-b850-pro-a-wifi): ca 160$
 
 [ASRock B850 Pro-A](https://pcpartpicker.com/product/tccBD3/asrock-b850-pro-a-atx-am5-motherboard-b850-pro-a) (without WiFi): ca 140$
 
